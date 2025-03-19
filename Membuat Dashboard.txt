@@ -1,0 +1,1 @@
+Sebagai pengguna sosial media, saya menginginkan UI dashboard yang minimalis, to the point, dan dapat menampilkan banyak postingan dari follower saya. Terdapat Like, Posting Ulang, dan Komentar!
