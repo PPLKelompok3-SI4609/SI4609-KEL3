@@ -11,6 +11,9 @@
 1202220189 – Candra Yuda Wardaya 
 
 
+Fauzi_Branch
+Ini perubahan yang dilakukan pada file .txt oleh Ahmad Fauzi
+
 canyud ganteng
 
 Rizka_Branch
@@ -20,3 +23,4 @@ Halooo ini yang nulis rizka
 PPL CERIA
 main
 
+main
